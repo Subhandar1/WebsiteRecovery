@@ -4,7 +4,7 @@
 
 
 destination_path="subfolder" # No trailing slash
-domain="example.com" # No http, no www, no trailing slash
+happymothersdayquotespoems.com" # No http, no www, no trailing slash
 
 
 # Do not touch this
